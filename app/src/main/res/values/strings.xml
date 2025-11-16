@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">LoginApp</string>
+    <string name="email">Email</string>
+    <string name="password">Пароль</string>
+    <string name="login">Войти</string>
+    <string name="empty_fields_error">Поля не должны быть пустыми</string>
+    <string name="email_validation_error">Некорректный email</string>
+    <string name="login_success">Успешный вход!</string>
+</resources>
